@@ -16,14 +16,19 @@ search.controller('SearchController', ['$scope', '$resource', function($scope, $
         */
         );
 
-            // APPID: b144ee0325efa9074ccfd6a69f81bfc9
+        // APPID: b144ee0325efa9074ccfd6a69f81bfc9
 
+        //$scope.queryResult = $scope.RIDBAPI.get({ apikey: '1D852276B76740FE8BCB99059BFD7AE0' });
+
+        //console.log($scope.queryResult);
+
+        //var result = angular.fromJson($scope.queryResult);
+        //console.log(result);
+
+        $scope.getData = function()
+        {
             $scope.queryResult = $scope.RIDBAPI.get({ apikey: '1D852276B76740FE8BCB99059BFD7AE0' });
-
-            console.log($scope.queryResult);
-
-            var result = angular.fromJson($scope.queryResult);
-            console.log(result);
+        }
 
 
 
