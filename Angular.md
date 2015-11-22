@@ -1,4 +1,4 @@
-# Angular 
+# Angular.js
 
 One of the most powerful javascript frameworks that is of great popularity today is Angular. 
 
