@@ -20,20 +20,21 @@ The GoogleMaps Javascript API offers a wide variety of resources that are all op
 
 https://developers.google.com/maps/documentation/javascript/
 
-	- Great base maps
-	- Styled maps
-	- Satellite maps
-	- Directions 
-	- Markers
+* Great base maps
+* Styled maps
+* Satellite maps
+* Directions 
+* Markers
 
-The GoogleMaps API supports different things you can do. FOr example:
-	- Create a Map
-	- Draw on that map
-	- Display Data
-	- Services (Distance Matrix)
-	- Geocoding: Converting an address into latitude and longitude coordinates
-	- Can do reverse-geocoding
-	- Libraries
+The GoogleMaps API supports different things you can do. For example:
+
+* Create a Map
+* Draw on that map
+* Display Data
+* Services (Distance Matrix)
+* Geocoding: Converting an address into latitude and longitude coordinates
+* Can do reverse-geocoding
+* Libraries
 
 <https://developers.google.com/maps/documentation/javascript/examples/>
 
@@ -45,9 +46,10 @@ Very useful information on over 100 million businesses and points of interest.
 https://developers.google.com/places/javascript/
 
 Allows us to do Place Searches:
-	- Nearby Search Requests
-	- Text Search Requests
-	- Radar Search Requests
+
+* Nearby Search Requests
+* Text Search Requests
+* Radar Search Requests
 
 <https://developers.google.com/maps/documentation/javascript/examples/place-search>
 
