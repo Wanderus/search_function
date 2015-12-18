@@ -15,7 +15,7 @@ There is a discussion of data models for their data:
 - Organizations that put the trails together. 
 - Not really interesting. 
 
-trail_segments.geojson
+## trail_segments.geojson
 
 - Contains polylines that make up the trails. 
 
