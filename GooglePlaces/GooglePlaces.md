@@ -2,7 +2,7 @@
 
 There are 4 types of searches that we can do:
 
-## Nearby search: 
+## Nearby search
 
 Returns a list of nearby places. 
 
@@ -13,13 +13,13 @@ Always needs to include a locations and can be specified in one of two ways:
 
 Let's walkthrough an example. 
 
-## Text search:
+## Text search
 
 Information about a set of places based on a string. 
 
 Example: Parks in Washignton DC
 
-## Radar search:
+## Radar search
 
 Allows you to search for places within a specified search radius by keyword, type, or name.
 
