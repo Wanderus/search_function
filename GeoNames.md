@@ -1,4 +1,4 @@
-# GeoNanmes
+# GeoNames
 
 Geonames is a opensource geographical database that covers countries and contains over 8 million placenames available for download free of charge. 
 
