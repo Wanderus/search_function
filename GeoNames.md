@@ -54,6 +54,7 @@ We can search for a zipcode and a placename:
 
 <http://api.geonames.org/postalCodeLookupJSON?placename=park&postalcode=21146&username=rhsu0268>
 
+## Reverse-Geocoding
 
 We can also do reverse geocoding (Turning coordinates to address)
 
